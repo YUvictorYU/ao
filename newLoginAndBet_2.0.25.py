@@ -7,7 +7,7 @@ import time
 
 # 创建GUI界面
 root = tk.Tk()
-root.title("网站登陆器")
+root.title("网站投注器")
 
 # 创建标签和输入框
 url_label = tk.Label(root, text="URL:")
